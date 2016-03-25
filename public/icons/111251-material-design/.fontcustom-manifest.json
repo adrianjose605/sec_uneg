@@ -1,0 +1,1740 @@
+{
+  "checksum": {
+    "previous": "319fb98c29ea1eb8bfc64ea9676411f14a8b8e988d6c9ba46ad733da5489171e",
+    "current": "319fb98c29ea1eb8bfc64ea9676411f14a8b8e988d6c9ba46ad733da5489171e"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/111251-material-design/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/111251-material-design/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/111251-material-design/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/111251-material-design/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "add-alarm-button": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/add-alarm-button.svg"
+    },
+    "add-button-inside-black-circle": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/add-button-inside-black-circle.svg"
+    },
+    "add-comment-button": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/add-comment-button.svg"
+    },
+    "add-label-button": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/add-label-button.svg"
+    },
+    "add-plus-button": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/add-plus-button.svg"
+    },
+    "add-to-queue-button": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/add-to-queue-button.svg"
+    },
+    "add-user-button": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/add-user-button.svg"
+    },
+    "adjust-button-with-plus-and-minus": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/adjust-button-with-plus-and-minus.svg"
+    },
+    "airplane-mode-on-symbol": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/airplane-mode-on-symbol.svg"
+    },
+    "android-logo": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/android-logo.svg"
+    },
+    "android-logo-1": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/android-logo-1.svg"
+    },
+    "apple-accessibility": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/apple-accessibility.svg"
+    },
+    "attachment-clip": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/attachment-clip.svg"
+    },
+    "auto-white-balance": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/auto-white-balance.svg"
+    },
+    "automatic-brightness": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/automatic-brightness.svg"
+    },
+    "automatic-flash-symbol": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/automatic-flash-symbol.svg"
+    },
+    "back-arrow": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/back-arrow.svg"
+    },
+    "backspace-arrow": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/backspace-arrow.svg"
+    },
+    "bed-quilt": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/bed-quilt.svg"
+    },
+    "been-here-marker": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/been-here-marker.svg"
+    },
+    "birthday-cake": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/birthday-cake.svg"
+    },
+    "black-bubble-speech": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/black-bubble-speech.svg"
+    },
+    "black-check-box": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/black-check-box.svg"
+    },
+    "black-check-box-with-white-check": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/black-check-box-with-white-check.svg"
+    },
+    "black-envelope-email-symbol": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/black-envelope-email-symbol.svg"
+    },
+    "black-keyboard-with-white-keys": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/black-keyboard-with-white-keys.svg"
+    },
+    "black-plane": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/black-plane.svg"
+    },
+    "blank-check-box": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/blank-check-box.svg"
+    },
+    "blank-frame": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/blank-frame.svg"
+    },
+    "blank-square": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/blank-square.svg"
+    },
+    "blogger-logo": {
+      "codepoint": 61726,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/blogger-logo.svg"
+    },
+    "blueetooth-logo": {
+      "codepoint": 61727,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/blueetooth-logo.svg"
+    },
+    "bluetooth-connected": {
+      "codepoint": 61728,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/bluetooth-connected.svg"
+    },
+    "bluetooth-disabled-button": {
+      "codepoint": 61729,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/bluetooth-disabled-button.svg"
+    },
+    "bluetooth-searching-signal-indicator": {
+      "codepoint": 61730,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/bluetooth-searching-signal-indicator.svg"
+    },
+    "bluetooth-settings": {
+      "codepoint": 61731,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/bluetooth-settings.svg"
+    },
+    "bluetooth-signal-indicator": {
+      "codepoint": 61732,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/bluetooth-signal-indicator.svg"
+    },
+    "bookmark-button": {
+      "codepoint": 61733,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/bookmark-button.svg"
+    },
+    "bookmark-button-1": {
+      "codepoint": 61734,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/bookmark-button-1.svg"
+    },
+    "bookmark-outline": {
+      "codepoint": 61735,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/bookmark-outline.svg"
+    },
+    "bookmark-ribbon": {
+      "codepoint": 61736,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/bookmark-ribbon.svg"
+    },
+    "briefcase-download-button-with-downwards-arrow": {
+      "codepoint": 61737,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/briefcase-download-button-with-downwards-arrow.svg"
+    },
+    "briefcase-with-tick-inside": {
+      "codepoint": 61738,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/briefcase-with-tick-inside.svg"
+    },
+    "brightness-control": {
+      "codepoint": 61739,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/brightness-control.svg"
+    },
+    "brochure-with-three-sections": {
+      "codepoint": 61740,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/brochure-with-three-sections.svg"
+    },
+    "bubble-speech-with-three-lines": {
+      "codepoint": 61741,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/bubble-speech-with-three-lines.svg"
+    },
+    "bug-report-button": {
+      "codepoint": 61742,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/bug-report-button.svg"
+    },
+    "burn-button": {
+      "codepoint": 61743,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/burn-button.svg"
+    },
+    "button-on": {
+      "codepoint": 61744,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/button-on.svg"
+    },
+    "call-forwarding": {
+      "codepoint": 61745,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/call-forwarding.svg"
+    },
+    "call-made-right-arrow": {
+      "codepoint": 61746,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/call-made-right-arrow.svg"
+    },
+    "call-received-arrow": {
+      "codepoint": 61747,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/call-received-arrow.svg"
+    },
+    "camera": {
+      "codepoint": 61748,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/camera.svg"
+    },
+    "camera-diaphragm": {
+      "codepoint": 61749,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/camera-diaphragm.svg"
+    },
+    "cancel-button": {
+      "codepoint": 61750,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/cancel-button.svg"
+    },
+    "caps-lock-button": {
+      "codepoint": 61751,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/caps-lock-button.svg"
+    },
+    "caps-lock-button-1": {
+      "codepoint": 61752,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/caps-lock-button-1.svg"
+    },
+    "car-changing-lanes": {
+      "codepoint": 61753,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/car-changing-lanes.svg"
+    },
+    "car-directions": {
+      "codepoint": 61754,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/car-directions.svg"
+    },
+    "car-front": {
+      "codepoint": 61755,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/car-front.svg"
+    },
+    "cell-phone-high-signal-indicator": {
+      "codepoint": 61756,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/cell-phone-high-signal-indicator.svg"
+    },
+    "cell-phone-vibration": {
+      "codepoint": 61757,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/cell-phone-vibration.svg"
+    },
+    "cell-phone-with-blank-screen": {
+      "codepoint": 61758,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/cell-phone-with-blank-screen.svg"
+    },
+    "change-power-options": {
+      "codepoint": 61759,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/change-power-options.svg"
+    },
+    "chat-bubble": {
+      "codepoint": 61760,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/chat-bubble.svg"
+    },
+    "chat-bubbles": {
+      "codepoint": 61761,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/chat-bubbles.svg"
+    },
+    "check-box": {
+      "codepoint": 61762,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/check-box.svg"
+    },
+    "check-symbol": {
+      "codepoint": 61763,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/check-symbol.svg"
+    },
+    "chemistry-polymer": {
+      "codepoint": 61764,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/chemistry-polymer.svg"
+    },
+    "circle-outline": {
+      "codepoint": 61765,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/circle-outline.svg"
+    },
+    "circle-with-check-symbol": {
+      "codepoint": 61766,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/circle-with-check-symbol.svg"
+    },
+    "circles-extend-button": {
+      "codepoint": 61767,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/circles-extend-button.svg"
+    },
+    "circumference": {
+      "codepoint": 61768,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/circumference.svg"
+    },
+    "city-buildings-silhouette": {
+      "codepoint": 61769,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/city-buildings-silhouette.svg"
+    },
+    "clapperboard": {
+      "codepoint": 61770,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/clapperboard.svg"
+    },
+    "clapperboard-1": {
+      "codepoint": 61771,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/clapperboard-1.svg"
+    },
+    "clear-button": {
+      "codepoint": 61772,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/clear-button.svg"
+    },
+    "clipboard-paste-button": {
+      "codepoint": 61773,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/clipboard-paste-button.svg"
+    },
+    "clock-with-white-face": {
+      "codepoint": 61774,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/clock-with-white-face.svg"
+    },
+    "close-button": {
+      "codepoint": 61775,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/close-button.svg"
+    },
+    "closed-caption-logo": {
+      "codepoint": 61776,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/closed-caption-logo.svg"
+    },
+    "cloud-backup-up-arrow": {
+      "codepoint": 61777,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/cloud-backup-up-arrow.svg"
+    },
+    "cloud-done-symbol": {
+      "codepoint": 61778,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/cloud-done-symbol.svg"
+    },
+    "cloud-download": {
+      "codepoint": 61779,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/cloud-download.svg"
+    },
+    "cloud-off": {
+      "codepoint": 61780,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/cloud-off.svg"
+    },
+    "cloud-outline": {
+      "codepoint": 61781,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/cloud-outline.svg"
+    },
+    "cloud-symbol-inside-a-circle": {
+      "codepoint": 61782,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/cloud-symbol-inside-a-circle.svg"
+    },
+    "compass-with-white-needles": {
+      "codepoint": 61783,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/compass-with-white-needles.svg"
+    },
+    "connection-indicator": {
+      "codepoint": 61784,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/connection-indicator.svg"
+    },
+    "copy-content": {
+      "codepoint": 61785,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/copy-content.svg"
+    },
+    "create-group-button": {
+      "codepoint": 61786,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/create-group-button.svg"
+    },
+    "create-new-pencil-button": {
+      "codepoint": 61787,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/create-new-pencil-button.svg"
+    },
+    "credit-card": {
+      "codepoint": 61788,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/credit-card.svg"
+    },
+    "crop-button": {
+      "codepoint": 61789,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/crop-button.svg"
+    },
+    "crop-tool-button": {
+      "codepoint": 61790,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/crop-tool-button.svg"
+    },
+    "cut-content-button": {
+      "codepoint": 61791,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/cut-content-button.svg"
+    },
+    "dark-cloud": {
+      "codepoint": 61792,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/dark-cloud.svg"
+    },
+    "developer-mode-for-smartphones-and-tablets": {
+      "codepoint": 61793,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/developer-mode-for-smartphones-and-tablets.svg"
+    },
+    "device-connected": {
+      "codepoint": 61794,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/device-connected.svg"
+    },
+    "device-connected-1": {
+      "codepoint": 61795,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/device-connected-1.svg"
+    },
+    "disc-is-full": {
+      "codepoint": 61796,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/disc-is-full.svg"
+    },
+    "do-not-disturb-rounded-sign": {
+      "codepoint": 61797,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/do-not-disturb-rounded-sign.svg"
+    },
+    "double-tick-indicator": {
+      "codepoint": 61798,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/double-tick-indicator.svg"
+    },
+    "download-button": {
+      "codepoint": 61799,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/download-button.svg"
+    },
+    "download-button-1": {
+      "codepoint": 61800,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/download-button-1.svg"
+    },
+    "download-to-smartphone": {
+      "codepoint": 61801,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/download-to-smartphone.svg"
+    },
+    "downwards-arrow-key": {
+      "codepoint": 61802,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/downwards-arrow-key.svg"
+    },
+    "drafts-evelope-button": {
+      "codepoint": 61803,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/drafts-evelope-button.svg"
+    },
+    "drop-down-arrow": {
+      "codepoint": 61804,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/drop-down-arrow.svg"
+    },
+    "drop-down-round-button": {
+      "codepoint": 61805,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/drop-down-round-button.svg"
+    },
+    "drop-up-arrow": {
+      "codepoint": 61806,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/drop-up-arrow.svg"
+    },
+    "earth-grid-select-language-button": {
+      "codepoint": 61807,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/earth-grid-select-language-button.svg"
+    },
+    "ellipsis": {
+      "codepoint": 61808,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/ellipsis.svg"
+    },
+    "email-inbox": {
+      "codepoint": 61809,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/email-inbox.svg"
+    },
+    "emoticon-with-happy-face": {
+      "codepoint": 61810,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/emoticon-with-happy-face.svg"
+    },
+    "end-call-button": {
+      "codepoint": 61811,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/end-call-button.svg"
+    },
+    "enter-arrow": {
+      "codepoint": 61812,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/enter-arrow.svg"
+    },
+    "exit-to-app-button": {
+      "codepoint": 61813,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/exit-to-app-button.svg"
+    },
+    "expand-arrow": {
+      "codepoint": 61814,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/expand-arrow.svg"
+    },
+    "expand-button": {
+      "codepoint": 61815,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/expand-button.svg"
+    },
+    "facebook-logo": {
+      "codepoint": 61816,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/facebook-logo.svg"
+    },
+    "failed-sms": {
+      "codepoint": 61817,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/failed-sms.svg"
+    },
+    "fast-forward-button": {
+      "codepoint": 61818,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/fast-forward-button.svg"
+    },
+    "favorite-heart-button": {
+      "codepoint": 61819,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/favorite-heart-button.svg"
+    },
+    "favorite-heart-outline-button": {
+      "codepoint": 61820,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/favorite-heart-outline-button.svg"
+    },
+    "filled-circle": {
+      "codepoint": 61821,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/filled-circle.svg"
+    },
+    "filled-cloud": {
+      "codepoint": 61822,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/filled-cloud.svg"
+    },
+    "filled-speaker-with-white-details": {
+      "codepoint": 61823,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/filled-speaker-with-white-details.svg"
+    },
+    "film-roll": {
+      "codepoint": 61824,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/film-roll.svg"
+    },
+    "filter-results-button": {
+      "codepoint": 61825,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/filter-results-button.svg"
+    },
+    "flash-off": {
+      "codepoint": 61826,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/flash-off.svg"
+    },
+    "flash-on-indicator": {
+      "codepoint": 61827,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/flash-on-indicator.svg"
+    },
+    "folder-symbol": {
+      "codepoint": 61828,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/folder-symbol.svg"
+    },
+    "forward-arrow": {
+      "codepoint": 61829,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/forward-arrow.svg"
+    },
+    "forward-right-arrow-button": {
+      "codepoint": 61830,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/forward-right-arrow-button.svg"
+    },
+    "framed-portrait": {
+      "codepoint": 61831,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/framed-portrait.svg"
+    },
+    "front-bus": {
+      "codepoint": 61832,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/front-bus.svg"
+    },
+    "front-car": {
+      "codepoint": 61833,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/front-car.svg"
+    },
+    "front-store": {
+      "codepoint": 61834,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/front-store.svg"
+    },
+    "full-screen-exit": {
+      "codepoint": 61835,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/full-screen-exit.svg"
+    },
+    "gamepad": {
+      "codepoint": 61836,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/gamepad.svg"
+    },
+    "gamepad-1": {
+      "codepoint": 61837,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/gamepad-1.svg"
+    },
+    "get-directions-button": {
+      "codepoint": 61838,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/get-directions-button.svg"
+    },
+    "gmail-logo": {
+      "codepoint": 61839,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/gmail-logo.svg"
+    },
+    "go-back-left-arrow": {
+      "codepoint": 61840,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/go-back-left-arrow.svg"
+    },
+    "good-mood-emoticon": {
+      "codepoint": 61841,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/good-mood-emoticon.svg"
+    },
+    "good-wifi-signal-with-three-bars": {
+      "codepoint": 61842,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/good-wifi-signal-with-three-bars.svg"
+    },
+    "google-apps-script-logo": {
+      "codepoint": 61843,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-apps-script-logo.svg"
+    },
+    "google-cast-logo": {
+      "codepoint": 61844,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-cast-logo.svg"
+    },
+    "google-chrome-logo-filled-with-white-colour": {
+      "codepoint": 61845,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-chrome-logo-filled-with-white-colour.svg"
+    },
+    "google-drive-document": {
+      "codepoint": 61846,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-drive-document.svg"
+    },
+    "google-drive-file": {
+      "codepoint": 61847,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-drive-file.svg"
+    },
+    "google-drive-folder-symbol": {
+      "codepoint": 61848,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-drive-folder-symbol.svg"
+    },
+    "google-drive-fusion-tables-logo": {
+      "codepoint": 61849,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-drive-fusion-tables-logo.svg"
+    },
+    "google-drive-image": {
+      "codepoint": 61850,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-drive-image.svg"
+    },
+    "google-drive-logo": {
+      "codepoint": 61851,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-drive-logo.svg"
+    },
+    "google-drive-pdf-file": {
+      "codepoint": 61852,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-drive-pdf-file.svg"
+    },
+    "google-drive-presentation": {
+      "codepoint": 61853,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-drive-presentation.svg"
+    },
+    "google-drive-spreadsheet": {
+      "codepoint": 61854,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-drive-spreadsheet.svg"
+    },
+    "google-glass-logo": {
+      "codepoint": 61855,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-glass-logo.svg"
+    },
+    "google-hangouts-logo": {
+      "codepoint": 61856,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-hangouts-logo.svg"
+    },
+    "google-hangouts-turn-video-off": {
+      "codepoint": 61857,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-hangouts-turn-video-off.svg"
+    },
+    "google-plus-logo": {
+      "codepoint": 61858,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-plus-logo.svg"
+    },
+    "google-plus-logo-on-black-background": {
+      "codepoint": 61859,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-plus-logo-on-black-background.svg"
+    },
+    "google-plus-party-mode": {
+      "codepoint": 61860,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-plus-party-mode.svg"
+    },
+    "google-symbol": {
+      "codepoint": 61861,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/google-symbol.svg"
+    },
+    "gps-fixed-indicator": {
+      "codepoint": 61862,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/gps-fixed-indicator.svg"
+    },
+    "gps-location-disabled": {
+      "codepoint": 61863,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/gps-location-disabled.svg"
+    },
+    "gps-location-symbol": {
+      "codepoint": 61864,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/gps-location-symbol.svg"
+    },
+    "gps-off": {
+      "codepoint": 61865,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/gps-off.svg"
+    },
+    "graduate-cap": {
+      "codepoint": 61866,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/graduate-cap.svg"
+    },
+    "half-filled-rating-star": {
+      "codepoint": 61867,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/half-filled-rating-star.svg"
+    },
+    "hangouts-videocall-button": {
+      "codepoint": 61868,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/hangouts-videocall-button.svg"
+    },
+    "headset": {
+      "codepoint": 61869,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/headset.svg"
+    },
+    "headset-with-microphone": {
+      "codepoint": 61870,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/headset-with-microphone.svg"
+    },
+    "help-button-speech-bubble-with-question-mark": {
+      "codepoint": 61871,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/help-button-speech-bubble-with-question-mark.svg"
+    },
+    "help-round-button": {
+      "codepoint": 61872,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/help-round-button.svg"
+    },
+    "hide-keyboard-button": {
+      "codepoint": 61873,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/hide-keyboard-button.svg"
+    },
+    "high-quality-button": {
+      "codepoint": 61874,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/high-quality-button.svg"
+    },
+    "high-signal-indicator": {
+      "codepoint": 61875,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/high-signal-indicator.svg"
+    },
+    "high-wifi-signal-indicator": {
+      "codepoint": 61876,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/high-wifi-signal-indicator.svg"
+    },
+    "history-clock-button": {
+      "codepoint": 61877,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/history-clock-button.svg"
+    },
+    "home-button": {
+      "codepoint": 61878,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/home-button.svg"
+    },
+    "horizontal-line-remove-button": {
+      "codepoint": 61879,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/horizontal-line-remove-button.svg"
+    },
+    "hotel-with-three-floors": {
+      "codepoint": 61880,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/hotel-with-three-floors.svg"
+    },
+    "https-symbol": {
+      "codepoint": 61881,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/https-symbol.svg"
+    },
+    "import-export-arrows": {
+      "codepoint": 61882,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/import-export-arrows.svg"
+    },
+    "insert-picture-button": {
+      "codepoint": 61883,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/insert-picture-button.svg"
+    },
+    "instagram-logo": {
+      "codepoint": 61884,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/instagram-logo.svg"
+    },
+    "invert-colors-button": {
+      "codepoint": 61885,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/invert-colors-button.svg"
+    },
+    "keyboard-left-arrow-button": {
+      "codepoint": 61886,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/keyboard-left-arrow-button.svg"
+    },
+    "keyboard-right-arrow-button": {
+      "codepoint": 61887,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/keyboard-right-arrow-button.svg"
+    },
+    "keyboard-right-arrow-button-1": {
+      "codepoint": 61888,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/keyboard-right-arrow-button-1.svg"
+    },
+    "label-right-arrow-outline": {
+      "codepoint": 61889,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/label-right-arrow-outline.svg"
+    },
+    "landscape-with-mountains": {
+      "codepoint": 61890,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/landscape-with-mountains.svg"
+    },
+    "laptop-outline": {
+      "codepoint": 61891,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/laptop-outline.svg"
+    },
+    "left-arrow-key": {
+      "codepoint": 61892,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/left-arrow-key.svg"
+    },
+    "left-arrow-key-1": {
+      "codepoint": 61893,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/left-arrow-key-1.svg"
+    },
+    "left-arrow-missed-call": {
+      "codepoint": 61894,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/left-arrow-missed-call.svg"
+    },
+    "light-bulb-on": {
+      "codepoint": 61895,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/light-bulb-on.svg"
+    },
+    "link-button": {
+      "codepoint": 61896,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/link-button.svg"
+    },
+    "linkedin-logo": {
+      "codepoint": 61897,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/linkedin-logo.svg"
+    },
+    "list-button-with-3-elements": {
+      "codepoint": 61898,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/list-button-with-3-elements.svg"
+    },
+    "list-of-three-elements-on-black-background": {
+      "codepoint": 61899,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/list-of-three-elements-on-black-background.svg"
+    },
+    "location-arrow": {
+      "codepoint": 61900,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/location-arrow.svg"
+    },
+    "locked-padlock": {
+      "codepoint": 61901,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/locked-padlock.svg"
+    },
+    "locked-padlock-outline": {
+      "codepoint": 61902,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/locked-padlock-outline.svg"
+    },
+    "low-signal-indicator": {
+      "codepoint": 61903,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/low-signal-indicator.svg"
+    },
+    "magic-wand-auto-fix-button": {
+      "codepoint": 61904,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/magic-wand-auto-fix-button.svg"
+    },
+    "man-cycling": {
+      "codepoint": 61905,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/man-cycling.svg"
+    },
+    "man-walking-directions-button": {
+      "codepoint": 61906,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/man-walking-directions-button.svg"
+    },
+    "map-placeholder": {
+      "codepoint": 61907,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/map-placeholder.svg"
+    },
+    "map-symbol": {
+      "codepoint": 61908,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/map-symbol.svg"
+    },
+    "mark-as-favorite-star": {
+      "codepoint": 61909,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/mark-as-favorite-star.svg"
+    },
+    "mark-as-unread-envelope-button": {
+      "codepoint": 61910,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/mark-as-unread-envelope-button.svg"
+    },
+    "medium-brightness-cogwheel": {
+      "codepoint": 61911,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/medium-brightness-cogwheel.svg"
+    },
+    "medium-signal": {
+      "codepoint": 61912,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/medium-signal.svg"
+    },
+    "medium-wifi-signal-with-two-bars": {
+      "codepoint": 61913,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/medium-wifi-signal-with-two-bars.svg"
+    },
+    "memory-chip": {
+      "codepoint": 61914,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/memory-chip.svg"
+    },
+    "menu-button": {
+      "codepoint": 61915,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/menu-button.svg"
+    },
+    "merge-calls-arrow": {
+      "codepoint": 61916,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/merge-calls-arrow.svg"
+    },
+    "microphone-of-voice": {
+      "codepoint": 61917,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/microphone-of-voice.svg"
+    },
+    "microphone-voice-button": {
+      "codepoint": 61918,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/microphone-voice-button.svg"
+    },
+    "microsoft-excel-logo": {
+      "codepoint": 61919,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/microsoft-excel-logo.svg"
+    },
+    "microsoft-word-logo": {
+      "codepoint": 61920,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/microsoft-word-logo.svg"
+    },
+    "missed-call-phone-receiver-with-left-arrow": {
+      "codepoint": 61921,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/missed-call-phone-receiver-with-left-arrow.svg"
+    },
+    "mountain-range": {
+      "codepoint": 61922,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/mountain-range.svg"
+    },
+    "mountain-range-on-black-background": {
+      "codepoint": 61923,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/mountain-range-on-black-background.svg"
+    },
+    "mountains-inside-a-circle": {
+      "codepoint": 61924,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/mountains-inside-a-circle.svg"
+    },
+    "mouse-filled-tool": {
+      "codepoint": 61925,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/mouse-filled-tool.svg"
+    },
+    "move-window": {
+      "codepoint": 61926,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/move-window.svg"
+    },
+    "new-tab": {
+      "codepoint": 61927,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/new-tab.svg"
+    },
+    "new-tab-button": {
+      "codepoint": 61928,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/new-tab-button.svg"
+    },
+    "nfc-near-field-communication": {
+      "codepoint": 61929,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/nfc-near-field-communication.svg"
+    },
+    "notifications-bell-button": {
+      "codepoint": 61930,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/notifications-bell-button.svg"
+    },
+    "notifications-button": {
+      "codepoint": 61931,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/notifications-button.svg"
+    },
+    "notifications-silenced": {
+      "codepoint": 61932,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/notifications-silenced.svg"
+    },
+    "pages-of-google-plus": {
+      "codepoint": 61933,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/pages-of-google-plus.svg"
+    },
+    "painter-palette": {
+      "codepoint": 61934,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/painter-palette.svg"
+    },
+    "panoramic-mountain-photography": {
+      "codepoint": 61935,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/panoramic-mountain-photography.svg"
+    },
+    "parking-sign": {
+      "codepoint": 61936,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/parking-sign.svg"
+    },
+    "pause-button": {
+      "codepoint": 61937,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/pause-button.svg"
+    },
+    "phone-call-button": {
+      "codepoint": 61938,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/phone-call-button.svg"
+    },
+    "phone-locked": {
+      "codepoint": 61939,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/phone-locked.svg"
+    },
+    "phone-paused-indicator": {
+      "codepoint": 61940,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/phone-paused-indicator.svg"
+    },
+    "phone-receiver-with-bluetooth-sign": {
+      "codepoint": 61941,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/phone-receiver-with-bluetooth-sign.svg"
+    },
+    "phone-settings": {
+      "codepoint": 61942,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/phone-settings.svg"
+    },
+    "phone-working-indicator": {
+      "codepoint": 61943,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/phone-working-indicator.svg"
+    },
+    "photo-album": {
+      "codepoint": 61944,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/photo-album.svg"
+    },
+    "photo-frame": {
+      "codepoint": 61945,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/photo-frame.svg"
+    },
+    "photo-library": {
+      "codepoint": 61946,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/photo-library.svg"
+    },
+    "photographic-film-roll": {
+      "codepoint": 61947,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/photographic-film-roll.svg"
+    },
+    "pinterest-logo": {
+      "codepoint": 61948,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/pinterest-logo.svg"
+    },
+    "planet-earth": {
+      "codepoint": 61949,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/planet-earth.svg"
+    },
+    "play-arrow": {
+      "codepoint": 61950,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/play-arrow.svg"
+    },
+    "play-button-inside-a-circle": {
+      "codepoint": 61951,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/play-button-inside-a-circle.svg"
+    },
+    "play-next-button": {
+      "codepoint": 61952,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/play-next-button.svg"
+    },
+    "play-rounded-button": {
+      "codepoint": 61953,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/play-rounded-button.svg"
+    },
+    "play-slideshow-button": {
+      "codepoint": 61954,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/play-slideshow-button.svg"
+    },
+    "plus-one": {
+      "codepoint": 61955,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/plus-one.svg"
+    },
+    "poll-symbol-on-black-square-with-rounded-corners": {
+      "codepoint": 61956,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/poll-symbol-on-black-square-with-rounded-corners.svg"
+    },
+    "power-connection-indicator": {
+      "codepoint": 61957,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/power-connection-indicator.svg"
+    },
+    "previous-track": {
+      "codepoint": 61958,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/previous-track.svg"
+    },
+    "printer-printing-document": {
+      "codepoint": 61959,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/printer-printing-document.svg"
+    },
+    "problems-with-synchronization": {
+      "codepoint": 61960,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/problems-with-synchronization.svg"
+    },
+    "progress-indicator": {
+      "codepoint": 61961,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/progress-indicator.svg"
+    },
+    "public-transport-subway": {
+      "codepoint": 61962,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/public-transport-subway.svg"
+    },
+    "public-transport-train-directions": {
+      "codepoint": 61963,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/public-transport-train-directions.svg"
+    },
+    "puzzle-piece-plugin": {
+      "codepoint": 61964,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/puzzle-piece-plugin.svg"
+    },
+    "radio-on-button": {
+      "codepoint": 61965,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/radio-on-button.svg"
+    },
+    "random-line": {
+      "codepoint": 61966,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/random-line.svg"
+    },
+    "rate-star-button": {
+      "codepoint": 61967,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/rate-star-button.svg"
+    },
+    "read-more-left-arrow-button": {
+      "codepoint": 61968,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/read-more-left-arrow-button.svg"
+    },
+    "receipt": {
+      "codepoint": 61969,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/receipt.svg"
+    },
+    "record-voice-microphone-button": {
+      "codepoint": 61970,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/record-voice-microphone-button.svg"
+    },
+    "refresh-button": {
+      "codepoint": 61971,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/refresh-button.svg"
+    },
+    "refresh-button-1": {
+      "codepoint": 61972,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/refresh-button-1.svg"
+    },
+    "reminder-bow": {
+      "codepoint": 61973,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/reminder-bow.svg"
+    },
+    "replay-arrow": {
+      "codepoint": 61974,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/replay-arrow.svg"
+    },
+    "reply-all-button": {
+      "codepoint": 61975,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/reply-all-button.svg"
+    },
+    "report-symbol": {
+      "codepoint": 61976,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/report-symbol.svg"
+    },
+    "rewind-button": {
+      "codepoint": 61977,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/rewind-button.svg"
+    },
+    "right-arrow-forward": {
+      "codepoint": 61978,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/right-arrow-forward.svg"
+    },
+    "ring-volume-control-button": {
+      "codepoint": 61979,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/ring-volume-control-button.svg"
+    },
+    "rotate-to-left-button": {
+      "codepoint": 61980,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/rotate-to-left-button.svg"
+    },
+    "rotate-to-right-button": {
+      "codepoint": 61981,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/rotate-to-right-button.svg"
+    },
+    "round-account-button-with-user-inside": {
+      "codepoint": 61982,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/round-account-button-with-user-inside.svg"
+    },
+    "round-add-button": {
+      "codepoint": 61983,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/round-add-button.svg"
+    },
+    "round-data-usage-symbol": {
+      "codepoint": 61984,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/round-data-usage-symbol.svg"
+    },
+    "round-delete-button": {
+      "codepoint": 61985,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/round-delete-button.svg"
+    },
+    "round-error-symbol": {
+      "codepoint": 61986,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/round-error-symbol.svg"
+    },
+    "round-info-button": {
+      "codepoint": 61987,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/round-info-button.svg"
+    },
+    "round-pause-button": {
+      "codepoint": 61988,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/round-pause-button.svg"
+    },
+    "round-remove-button": {
+      "codepoint": 61989,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/round-remove-button.svg"
+    },
+    "round-rgb-button": {
+      "codepoint": 61990,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/round-rgb-button.svg"
+    },
+    "rounded-add-button": {
+      "codepoint": 61991,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/rounded-add-button.svg"
+    },
+    "rounded-add-button-1": {
+      "codepoint": 61992,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/rounded-add-button-1.svg"
+    },
+    "rounded-adjust-button-with-plus-and-minus": {
+      "codepoint": 61993,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/rounded-adjust-button-with-plus-and-minus.svg"
+    },
+    "rounded-block-sign": {
+      "codepoint": 61994,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/rounded-block-sign.svg"
+    },
+    "rounded-info-button": {
+      "codepoint": 61995,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/rounded-info-button.svg"
+    },
+    "rounded-pause-button": {
+      "codepoint": 61996,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/rounded-pause-button.svg"
+    },
+    "rounded-remove-button": {
+      "codepoint": 61997,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/rounded-remove-button.svg"
+    },
+    "rubbish-bin-delete-button": {
+      "codepoint": 61998,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/rubbish-bin-delete-button.svg"
+    },
+    "save-button": {
+      "codepoint": 61999,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/save-button.svg"
+    },
+    "schedule-button": {
+      "codepoint": 62000,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/schedule-button.svg"
+    },
+    "screen-locked": {
+      "codepoint": 62001,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/screen-locked.svg"
+    },
+    "screen-locked-1": {
+      "codepoint": 62002,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/screen-locked-1.svg"
+    },
+    "screen-rotation-button": {
+      "codepoint": 62003,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/screen-rotation-button.svg"
+    },
+    "screen-rotation-lock-button": {
+      "codepoint": 62004,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/screen-rotation-lock-button.svg"
+    },
+    "screen-with-news-sections": {
+      "codepoint": 62005,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/screen-with-news-sections.svg"
+    },
+    "screen-with-rounded-corners": {
+      "codepoint": 62006,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/screen-with-rounded-corners.svg"
+    },
+    "sd-card": {
+      "codepoint": 62007,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/sd-card.svg"
+    },
+    "sd-card-1": {
+      "codepoint": 62008,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/sd-card-1.svg"
+    },
+    "searching-location-gps-indicator": {
+      "codepoint": 62009,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/searching-location-gps-indicator.svg"
+    },
+    "searching-magnifying-glass": {
+      "codepoint": 62010,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/searching-magnifying-glass.svg"
+    },
+    "select-all": {
+      "codepoint": 62011,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/select-all.svg"
+    },
+    "select-brightness-button": {
+      "codepoint": 62012,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/select-brightness-button.svg"
+    },
+    "send-button": {
+      "codepoint": 62013,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/send-button.svg"
+    },
+    "send-to-back-button": {
+      "codepoint": 62014,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/send-to-back-button.svg"
+    },
+    "send-to-front-button": {
+      "codepoint": 62015,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/send-to-front-button.svg"
+    },
+    "server-rack-with-three-levels": {
+      "codepoint": 62016,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/server-rack-with-three-levels.svg"
+    },
+    "set-alarm": {
+      "codepoint": 62017,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/set-alarm.svg"
+    },
+    "set-timer-button": {
+      "codepoint": 62018,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/set-timer-button.svg"
+    },
+    "settings-cogwheel-button": {
+      "codepoint": 62019,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/settings-cogwheel-button.svg"
+    },
+    "settings-cogwheel-inside-black-square": {
+      "codepoint": 62020,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/settings-cogwheel-inside-black-square.svg"
+    },
+    "share-button": {
+      "codepoint": 62021,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/share-button.svg"
+    },
+    "shared-folder": {
+      "codepoint": 62022,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/shared-folder.svg"
+    },
+    "shining-rectangular-object": {
+      "codepoint": 62023,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/shining-rectangular-object.svg"
+    },
+    "shining-sun": {
+      "codepoint": 62024,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/shining-sun.svg"
+    },
+    "shopping-basket-button": {
+      "codepoint": 62025,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/shopping-basket-button.svg"
+    },
+    "shopping-cart": {
+      "codepoint": 62026,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/shopping-cart.svg"
+    },
+    "show-apps-button": {
+      "codepoint": 62027,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/show-apps-button.svg"
+    },
+    "show-less-fold-button": {
+      "codepoint": 62028,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/show-less-fold-button.svg"
+    },
+    "show-menu-button": {
+      "codepoint": 62029,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/show-menu-button.svg"
+    },
+    "show-more-button": {
+      "codepoint": 62030,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/show-more-button.svg"
+    },
+    "show-more-button-with-three-dots": {
+      "codepoint": 62031,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/show-more-button-with-three-dots.svg"
+    },
+    "shuffle-mode-arrows": {
+      "codepoint": 62032,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/shuffle-mode-arrows.svg"
+    },
+    "sim-card-problem": {
+      "codepoint": 62033,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/sim-card-problem.svg"
+    },
+    "smartphone-dock": {
+      "codepoint": 62034,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/smartphone-dock.svg"
+    },
+    "smartphone-with-three-buttons": {
+      "codepoint": 62035,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/smartphone-with-three-buttons.svg"
+    },
+    "sms-bubble-speech": {
+      "codepoint": 62036,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/sms-bubble-speech.svg"
+    },
+    "sms-speech-bubble": {
+      "codepoint": 62037,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/sms-speech-bubble.svg"
+    },
+    "snake-game": {
+      "codepoint": 62038,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/snake-game.svg"
+    },
+    "sort-button-with-three-lines": {
+      "codepoint": 62039,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/sort-button-with-three-lines.svg"
+    },
+    "speech-bubble-with-mountains-inside": {
+      "codepoint": 62040,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/speech-bubble-with-mountains-inside.svg"
+    },
+    "split-call-arrows": {
+      "codepoint": 62041,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/split-call-arrows.svg"
+    },
+    "square-add-button": {
+      "codepoint": 62042,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/square-add-button.svg"
+    },
+    "stop-button": {
+      "codepoint": 62043,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/stop-button.svg"
+    },
+    "swap-horizontal-orientation-arrows": {
+      "codepoint": 62044,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/swap-horizontal-orientation-arrows.svg"
+    },
+    "swap-vertical-orientation-arrows": {
+      "codepoint": 62045,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/swap-vertical-orientation-arrows.svg"
+    },
+    "switch-camera-button": {
+      "codepoint": 62046,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/switch-camera-button.svg"
+    },
+    "switch-to-full-screen-button": {
+      "codepoint": 62047,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/switch-to-full-screen-button.svg"
+    },
+    "switch-vertical-orientation-arrows": {
+      "codepoint": 62048,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/switch-vertical-orientation-arrows.svg"
+    },
+    "switch-video-on": {
+      "codepoint": 62049,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/switch-video-on.svg"
+    },
+    "synchronization-arrows": {
+      "codepoint": 62050,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/synchronization-arrows.svg"
+    },
+    "synchronization-button-with-two-arrows": {
+      "codepoint": 62051,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/synchronization-button-with-two-arrows.svg"
+    },
+    "synchronization-problem": {
+      "codepoint": 62052,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/synchronization-problem.svg"
+    },
+    "tab-symbol": {
+      "codepoint": 62053,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/tab-symbol.svg"
+    },
+    "tablet-with-blank-screen": {
+      "codepoint": 62054,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/tablet-with-blank-screen.svg"
+    },
+    "tack-save-button": {
+      "codepoint": 62055,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/tack-save-button.svg"
+    },
+    "tag-button-with-happy-face": {
+      "codepoint": 62056,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/tag-button-with-happy-face.svg"
+    },
+    "telephone-keypad-with-ten-keys": {
+      "codepoint": 62057,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/telephone-keypad-with-ten-keys.svg"
+    },
+    "thermostat-temperature-wheel": {
+      "codepoint": 62058,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/thermostat-temperature-wheel.svg"
+    },
+    "three-columns-layout": {
+      "codepoint": 62059,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/three-columns-layout.svg"
+    },
+    "three-dots-more-indicator": {
+      "codepoint": 62060,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/three-dots-more-indicator.svg"
+    },
+    "thumb-down-button": {
+      "codepoint": 62061,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/thumb-down-button.svg"
+    },
+    "thumb-up-button": {
+      "codepoint": 62062,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/thumb-up-button.svg"
+    },
+    "tick-inside-circle": {
+      "codepoint": 62063,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/tick-inside-circle.svg"
+    },
+    "time-lapse": {
+      "codepoint": 62064,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/time-lapse.svg"
+    },
+    "traffic-light": {
+      "codepoint": 62065,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/traffic-light.svg"
+    },
+    "train-public-transport": {
+      "codepoint": 62066,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/train-public-transport.svg"
+    },
+    "tumblr-logo": {
+      "codepoint": 62067,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/tumblr-logo.svg"
+    },
+    "turn-airplane-mode-off": {
+      "codepoint": 62068,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/turn-airplane-mode-off.svg"
+    },
+    "turn-microphone-off-button": {
+      "codepoint": 62069,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/turn-microphone-off-button.svg"
+    },
+    "turn-notifications-off-button": {
+      "codepoint": 62070,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/turn-notifications-off-button.svg"
+    },
+    "turn-notifications-on-button": {
+      "codepoint": 62071,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/turn-notifications-on-button.svg"
+    },
+    "turn-synchronization-off": {
+      "codepoint": 62072,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/turn-synchronization-off.svg"
+    },
+    "turn-video-off-button": {
+      "codepoint": 62073,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/turn-video-off-button.svg"
+    },
+    "turn-visibility-off-button": {
+      "codepoint": 62074,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/turn-visibility-off-button.svg"
+    },
+    "twitter-logo-on-black-background": {
+      "codepoint": 62075,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/twitter-logo-on-black-background.svg"
+    },
+    "two-circles-one-inside-the-other": {
+      "codepoint": 62076,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/two-circles-one-inside-the-other.svg"
+    },
+    "two-men": {
+      "codepoint": 62077,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/two-men.svg"
+    },
+    "two-rows-and-three-columns-layout": {
+      "codepoint": 62078,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/two-rows-and-three-columns-layout.svg"
+    },
+    "underline-button": {
+      "codepoint": 62079,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/underline-button.svg"
+    },
+    "underline-text-button": {
+      "codepoint": 62080,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/underline-text-button.svg"
+    },
+    "undo-button": {
+      "codepoint": 62081,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/undo-button.svg"
+    },
+    "unlocked-padlock": {
+      "codepoint": 62082,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/unlocked-padlock.svg"
+    },
+    "up-arrow-key": {
+      "codepoint": 62083,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/up-arrow-key.svg"
+    },
+    "upload-button": {
+      "codepoint": 62084,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/upload-button.svg"
+    },
+    "upload-to-cloud-button": {
+      "codepoint": 62085,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/upload-to-cloud-button.svg"
+    },
+    "usb-symbol": {
+      "codepoint": 62086,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/usb-symbol.svg"
+    },
+    "user-account-box": {
+      "codepoint": 62087,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/user-account-box.svg"
+    },
+    "user-account-box-1": {
+      "codepoint": 62088,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/user-account-box-1.svg"
+    },
+    "user-inside-bubble-speech": {
+      "codepoint": 62089,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/user-inside-bubble-speech.svg"
+    },
+    "user-outline": {
+      "codepoint": 62090,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/user-outline.svg"
+    },
+    "user-shape": {
+      "codepoint": 62091,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/user-shape.svg"
+    },
+    "users-social-symbol": {
+      "codepoint": 62092,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/users-social-symbol.svg"
+    },
+    "verification-mark": {
+      "codepoint": 62093,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/verification-mark.svg"
+    },
+    "videocall-button": {
+      "codepoint": 62094,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/videocall-button.svg"
+    },
+    "videocam-filled-tool": {
+      "codepoint": 62095,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/videocam-filled-tool.svg"
+    },
+    "view-list-button": {
+      "codepoint": 62096,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/view-list-button.svg"
+    },
+    "virtual-private-network-vpn-symbol": {
+      "codepoint": 62097,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/virtual-private-network-vpn-symbol.svg"
+    },
+    "visibility-button": {
+      "codepoint": 62098,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/visibility-button.svg"
+    },
+    "voice-message-microphone-button": {
+      "codepoint": 62099,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/voice-message-microphone-button.svg"
+    },
+    "voicemail": {
+      "codepoint": 62100,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/voicemail.svg"
+    },
+    "volume-down-indicator": {
+      "codepoint": 62101,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/volume-down-indicator.svg"
+    },
+    "volume-muted": {
+      "codepoint": 62102,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/volume-muted.svg"
+    },
+    "volume-off-indicator": {
+      "codepoint": 62103,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/volume-off-indicator.svg"
+    },
+    "volume-up-indicator": {
+      "codepoint": 62104,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/volume-up-indicator.svg"
+    },
+    "warning-sign": {
+      "codepoint": 62105,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/warning-sign.svg"
+    },
+    "watch-with-blank-face": {
+      "codepoint": 62106,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/watch-with-blank-face.svg"
+    },
+    "waving-flag": {
+      "codepoint": 62107,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/waving-flag.svg"
+    },
+    "web-server": {
+      "codepoint": 62108,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/web-server.svg"
+    },
+    "website-with-different-sections": {
+      "codepoint": 62109,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/website-with-different-sections.svg"
+    },
+    "wifi-high-signal": {
+      "codepoint": 62110,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/wifi-high-signal.svg"
+    },
+    "wifi-low-signal-with-one-bar": {
+      "codepoint": 62111,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/wifi-low-signal-with-one-bar.svg"
+    },
+    "wifi-signal-waves": {
+      "codepoint": 62112,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/wifi-signal-waves.svg"
+    },
+    "window-with-different-sections": {
+      "codepoint": 62113,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/window-with-different-sections.svg"
+    },
+    "work-briefcase": {
+      "codepoint": 62114,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/work-briefcase.svg"
+    },
+    "workspace-with-two-horizontal-windows": {
+      "codepoint": 62115,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/workspace-with-two-horizontal-windows.svg"
+    },
+    "world-shape-public-symbol": {
+      "codepoint": 62116,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/world-shape-public-symbol.svg"
+    },
+    "write-email-envelope-button": {
+      "codepoint": 62117,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/write-email-envelope-button.svg"
+    },
+    "youtube-logo": {
+      "codepoint": 62118,
+      "source": "/var/www/static/flaticon/zip_packs/111251-material-design/svg/youtube-logo.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/111251-material-design/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/111251-material-design/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/111251-material-design/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/111251-material-design/font",
+      "preview": "/var/www/static/flaticon/zip_packs/111251-material-design/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/111251-material-design/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/111251-material-design/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/111251-material-design/font/flaticon.css"
+  ]
+}
